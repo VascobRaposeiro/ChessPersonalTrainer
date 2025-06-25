@@ -6,8 +6,7 @@ ChessPersonalTrainer is a desktop application designed to help chess enthusiasts
 
 ## Purpose of the Project
 
-This project was primarily undertaken to **develop and refine my skills in Go (Golang). 
----
+The main goal of this project was to develop my skills in Go (Golang). 
 
 ## Features
 
